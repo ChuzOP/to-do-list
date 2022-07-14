@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3d243bc4.css","mappings":"AAAA,YAEI,aAAa,CADb,4BAEJ","sources":["styles/TodoItem.css"],"sourcesContent":[".completado{\r\n    text-decoration: line-through;\r\n    color: #888b96\r\n}\r\n"],"names":[],"sourceRoot":""}
